@@ -34,7 +34,7 @@ To run the rover and Xbox controller, use the following commands:
 <br>
 
 
-# License
+## License
 
 This project is licensed under the **BSD 3-Clause License**, the same license used by the original source code from Rover Robotics.<br>
 
@@ -61,7 +61,7 @@ modification, are permitted provided that the following conditions are met:
   this software without specific prior written permission.</p><br>
 
 
-<p style="font-size:10px">
+<p style="font-size:8px">
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -76,7 +76,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p><br>
 
 
 
-# Acknowledgments
+## Acknowledgments
 
 - Original code by **Rover Robotics**.
 - Modifications made by the writer of this GitHub repository.
