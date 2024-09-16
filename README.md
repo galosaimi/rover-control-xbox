@@ -2,7 +2,7 @@
 # Rover Control via Xbox Controller
 
 
-This repository contains the modified code for controlling a rover using an Xbox controller. The original code was developed by Rover Robotics and published as open-source before it was removed from their GitHub page. This version includes adjustments to fix performance issues and ensure smoother operation.
+This repository contains the modified code for controlling a rover using an Xbox controller. The original code was developed by Rover Robotics and published as open-source before it was removed from their GitHub page. This version includes adjustments to fix performance issues and ensure smoother operation. <br>
 
 
 
@@ -31,22 +31,18 @@ To run the rover and Xbox controller, use the following commands:
    roslaunch rr_openrover_basic teleop.launch
 
 
+<br>
 
 
 # License
 
-This project is licensed under the **BSD 3-Clause License**, the same license used by the original source code from Rover Robotics.
+This project is licensed under the **BSD 3-Clause License**, the same license used by the original source code from Rover Robotics.<br>
 
 
 
 ### BSD 3-Clause License
 
-
-# License
-
-### BSD 3-Clause License
-
-<p style="font-size:14px">
+<p style="font-size:12px">
 Copyright (c) 2018, Rover Robotics  
 All rights reserved.
 
@@ -77,7 +73,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 </p>
 
-
+<br>
 
 # Acknowledgments
 
